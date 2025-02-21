@@ -53,6 +53,15 @@ Management will like to know the following in regards to trends;
 # ABOUT BUTTONS
 Kindly take note that all buttons have been given action such that holding control and double clicking on them will take you to the respective pages.
 
+Links to Images![BANK 2](https://github.com/user-attachments/assets/4164d59c-3a9d-439e-b073-76e05d8438da)
+![BANK 1](https://github.com/user-attachments/assets/f8c0bf09-2bec-48b4-bf82-23c67f748281)
+![BANK 6](https://github.com/user-attachments/assets/12bcaf2e-3233-475e-84bf-d2715bee3909)
+![BANK 5](https://github.com/user-attachments/assets/fca2855a-b7d3-4c57-aea7-8e6708844500)
+![BANK 4](https://github.com/user-attachments/assets/5219185d-5914-48da-ad5b-c4a196e7f7d6)
+![BANK 3](https://github.com/user-attachments/assets/df250661-f509-45d1-9bf1-9e92df9d022c)
+
+
+
 
 
 
